@@ -1,0 +1,12 @@
+p{  /*element-selector*/
+    padding : 10px;
+}
+.browser{
+    color: blue;
+}
+#popular{
+    font-weight : bold;
+}
+input[type=text]{
+    width : 500;
+}
